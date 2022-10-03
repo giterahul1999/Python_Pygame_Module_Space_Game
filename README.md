@@ -7,3 +7,4 @@ The good way to install Pygame is with the pip tool (which is what python uses t
 
 Here I have created the simple game which helped me to make my basics strong and and it gave me the oveerall idea in workflow to start any project and to proceed in it.
 
+![image](https://user-images.githubusercontent.com/66781417/193631363-1320c02f-634c-4cdc-96a3-d0de9c8f800f.png)
